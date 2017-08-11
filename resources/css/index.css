@@ -90,11 +90,13 @@ a {color: seashell;}
             flex-direction: column;
             justify-content: center;}
 
-#locations .flex-container {margin: auto;
-                            width: 110px;}
 
 .flex-container.locations {padding-top: 5px;
                            flex-wrap: nowrap; }
 
 h2, h3, h4 {Margin:0;
             padding:10px;}
+
+.footer {text-align: center;}
+
+.copyright {text-align: left;}
